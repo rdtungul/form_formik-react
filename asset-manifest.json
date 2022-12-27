@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/form_formik-react/static/css/main.203604e2.css",
+    "main.js": "/form_formik-react/static/js/main.a13619d1.js",
+    "static/media/register.jpg": "/form_formik-react/static/media/register.251cefad5972bb2bac55.jpg",
+    "index.html": "/form_formik-react/index.html",
+    "main.203604e2.css.map": "/form_formik-react/static/css/main.203604e2.css.map",
+    "main.a13619d1.js.map": "/form_formik-react/static/js/main.a13619d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.203604e2.css",
+    "static/js/main.a13619d1.js"
+  ]
+}
